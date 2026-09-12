@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou Felipe Rodrigues 👋
 
-<!--
-**feliperodriguesdevbr/feliperodriguesdevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação  
+📸 Comunicação, fotografia e audiovisual  
+🥋 Capoeirista  
 
-Here are some ideas to get you started:
+## 🚀 Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Estudando programação e desenvolvimento de software
+- 🐍 Aprendendo Python
+- 🛠️ Desenvolvendo meu primeiro projeto: TaskFlow
+- 🌱 Construindo minha jornada como desenvolvedor
+- 🔧 Aprendendo Git e GitHub
+
+## 📌 Projetos
+
+
+## 🎯 Objetivo
+
+Transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.
+
+## 📫 Contato
+
+📸 Instagram: @feliperodriguesdev
